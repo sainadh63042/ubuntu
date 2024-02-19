@@ -1,0 +1,24 @@
+To create(POST) the new employee details in database:
+{
+  "name": "sainadh3",
+  "department": "CISCO",
+  "position": "developer"
+}
+To update(PUT) the existing employee details in database:
+{
+  "name": "sainadh3",
+  "department": "HCL",
+  "position": "developer"
+}
+change the required fields and send
+===========================================================
+To install postman in ubuntu:
+1. Open terminal, run this command:
+sudo snap install postman
+===========================================================
+To install teams in ubuntu:
+sudo snap install teams-for-linux
+===========================================================
+To install pycharm in ubuntu:
+sudo snap install pycharm-community --classic
+===========================================================
